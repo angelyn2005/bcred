@@ -1,7 +1,9 @@
 {
     "require": {
+        "php": "^8.0",
         "dompdf/dompdf": "^3.1"
     }
 }
+
 
 
