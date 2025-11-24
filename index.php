@@ -45,7 +45,7 @@ define('PREVENT_DIRECT_ACCESS', TRUE);
  * 
  * NO TRAILING SLASH!
  */
-	$system_path 			= __DIR__ . '/scheme';
+	$system_path 			= 'scheme';
 
 /*
  *---------------------------------------------------------------
@@ -57,7 +57,7 @@ define('PREVENT_DIRECT_ACCESS', TRUE);
  *
  * NO TRAILING SLASH!
  */
-	$application_folder 	= __DIR__ . '/app';
+	$application_folder 	= 'app';
 
 /*
  *---------------------------------------------------------------
